@@ -14,32 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm test</h1>
-<h3 align="center">A passionate frontend developer from test</h3>
+<h1 align="center">Hi 👋, I am Aphrodite/h1>
+<h3 align="center">A passionate new entry full stack developer</h3>
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aphroditef&label=Profile%20views&color=0e75b6&style=flat" alt="aphroditef" /> </p>-->
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aphroditef" alt="aphroditef" /></a> </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aphroditef&label=Profile%20views&color=0e75b6&style=flat" alt="aphroditef" /> </p>
+- 🔭 I’m currently working on my ideas ThesDesignLab and PrintIT
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aphroditef" alt="aphroditef" /></a> </p>
+- 🌱 I’m currently learning/recapping JS and C#
 
-- 🔭 I’m currently working on **test**
+- 👯 I’m looking to collaborate on project ThesDesignLab
 
-- 🌱 I’m currently learning **test**
+- 🤝 I’m looking for help with mockups
 
-- 👯 I’m looking to collaborate on **test**
-
-- 🤝 I’m looking for help with **test**
-
-- 👨‍💻 All of my projects are available at [test](test)
+<!-- - 👨‍💻 All of my projects are available at [test](test) 
 
 - 📝 I regularly write articles on [test](test)
 
-- 💬 Ask me about **test**
+- 💬 Ask me about **test** -->
 
-- 📫 How to reach me **test**
+- 📫 How to reach me dev@techwings.gr
 
-- 📄 Know about my experiences [test](test)
+<!-- - 📄 Know about my experiences [test](test)
 
-- ⚡ Fun fact **test**
+- ⚡ Fun fact **test** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
